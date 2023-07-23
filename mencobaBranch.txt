@@ -3,3 +3,4 @@ Melihat tutorial laravel dari yt
 Melihat tutorial tailwind dari yt
 Melihat tutorial js dari yt
 +mecoba ES6
+Menambah point 6
