@@ -5,3 +5,6 @@ Melihat tutorial js dari yt
 +mecoba ES6
 Menambah point 6
 Menambah point 7
+Hanya point 8
+Menambahkan point 9 
+Menambahkan lagi point 10
